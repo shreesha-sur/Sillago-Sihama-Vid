@@ -1,7 +1,7 @@
 # Sillago-Sihama-Vid:
 Fish behaviour analysis plays an important role in managing fish farms in aquaculture. The lack of fish datasets for their behaviour analysis has limited the growth of computer-vision based technologies in aquaculture. Here, we provide an extensive Sillago sihama fish dataset for behaviour analysis via tracking. The dataset contains  a total of 16 videos, split into training (8) and testing (8).  The fish trajectory annotations are provided in Pascal VOC format. The dataset contains 8 to 10 fishes in an aquarium. We have strictly followed MOT16 annotation rules to create the dataset.  Further, several different behaviour patterns of the fishes are observed in the dataset such as frantic, hiding, no movement and swimming at the surface patterns. Idenitfying these behaviour patterns can provide greater insights regarding the fish farms.
 # Dataset details:
-![Sample_annotation_frame2](https://user-images.githubusercontent.com/91935551/138856077-6b65f503-c341-48fa-aee1-3fa2382649bc.PNG)
+![Table_dataset_details](https://user-images.githubusercontent.com/91935551/138856329-d9bb2cfd-c3bd-4907-9c52-b514b648a994.PNG)
 
 Few sample frames of the dataset has been shown below. 
 
