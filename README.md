@@ -16,4 +16,4 @@ Few sample frames with the annotation has been shown below.
 ![Sample_annotation_frame2](https://user-images.githubusercontent.com/91935551/138845232-e8494f0c-ad12-488d-b3ed-33816b49d1e8.PNG)
 
 # Download:
-The dataset will be available for download after the paper has been accepted for publication.
+Please fill the Google Form if you are interested in using this dataset. The link to download the dataset will be shared to your email address. 
