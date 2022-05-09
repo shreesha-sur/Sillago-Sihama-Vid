@@ -15,5 +15,9 @@ Few sample frames with the annotation has been shown below.
 
 ![Sample_annotation_frame2](https://user-images.githubusercontent.com/91935551/138845232-e8494f0c-ad12-488d-b3ed-33816b49d1e8.PNG)
 
+A sample result of the proposed tracking algorithm on the dataset.
+https://user-images.githubusercontent.com/91935551/167342654-657a6879-0893-4bcf-a54f-331477c4c553.mp4
+
+
 # Download:
 Please fill the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfHf5dBdDdPlKJ6eNuCGXqt_wSLJpL7Im5X31-DZtRdfK255g/viewform) if you are interested in using this dataset. The link to download the dataset will be shared to your email address. 
