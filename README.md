@@ -18,7 +18,7 @@ Few sample frames with the annotation has been shown below.
 
 ![Sample_annotation_frame2](https://user-images.githubusercontent.com/91935551/138845232-e8494f0c-ad12-488d-b3ed-33816b49d1e8.PNG)
 
-A sample result of the proposed tracking algorithm on the dataset.
+A sample result of the proposed tracking algorithm on the dataset. It is clearly seen that, the dark blue, yellow and orange coloured bounding box tracks the fishes even if there are rapid motion, sudden change in direction and occlusion. This shows the efficiency of the proposed tracking method. The proposed method considers appearance, motion, spatial and swim direction for making association between the tracklets and detections.  
 
 
 https://user-images.githubusercontent.com/91935551/167343628-106ef44c-2a31-431c-aa96-98dd4d92099c.mp4
